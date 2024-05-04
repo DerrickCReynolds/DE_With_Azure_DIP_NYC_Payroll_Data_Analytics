@@ -1,0 +1,9 @@
+{
+	"name": "adf-adlsnycpayrollderrickr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0741794-a0e9-48a8-ac95-5c9169eb027d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
